@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Dia 0: 29 de fevereiro, 2016 (Exemplo 1)
-##### (me delete ou transforme em comentário)
+### Dia 0: 11 de setembro, 2024
 
-**Progresso do dia:** Consertei CSS, trabalhei na funcionalidade canvas para o app.
+**Progresso do dia:** Comecei um novo projeto com Nestjs, aprendendo autenticação com JWT e usando a biblioteca bcrypt para hashear as senhas dos usuários. Também aprendi a usar a aba de "projetos" no Github e pretendo continuar usando ela para manter o controle dos meus repositorios.
 
-**Aprendizados:** Eu realmente apanhei do CSS, mas sinto que estou progredindo e melhorando a cada dia. Canvas ainda é novo para mim, mas eu consegui compreender suas funcionalidades básicas..
+**Aprendizados:** Estou animado para continuar com esse projeto e terminar esse aplicativo de autenticação e começar outros.
 
-**Link do trabalho:** [App de calculadora](http://www.example.com)
+**Link do trabalho:** [Aplicação de autenticação](https://github.com/nascimento-felipe/nest-autenticacao)
 
+<!---
 ### Dia 1: 30 de fevereiro, 2016 (Exemplo 2)
 ##### (me delete ou transforme em comentário)
 
@@ -27,3 +27,4 @@
 **Link(s) do(s) trabalho(s)**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+-->
