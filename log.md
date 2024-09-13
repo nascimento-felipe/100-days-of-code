@@ -8,6 +8,15 @@
 
 **Link to work:** [Authentication App](https://github.com/nascimento-felipe/nest-autenticacao)
 
+### Day 1: September 12, 2024
+
+**Today's Progress**: I went further with the auth project, but unfortunately i did not finished it yet. I hope that i can finish it tomorrow and can finally begin a project with a frontend and using what i learned.
+
+**Thoughts:** I learned how guard and pipes works on Nest, and also learned some more of strategies and JWT, but i did not grasp the concept entirely. I will finish the project and then try to write a better readme to see if i can explain better what i saw so i can also explain with my words what i got.
+
+**Link to work:** [Authentication App](https://github.com/nascimento-felipe/nest-autenticacao)
+
+
 <!---
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
