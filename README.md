@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge
 
+[Link to Log.md](./log.md)
+
 ## Contents
 
 - [Rules](rules.md)
